@@ -7,7 +7,6 @@ An active lab for practicing Linux administration and basic network services on 
 - Raspberry Pi 4
 - Debian Linux
 - 128 GB microSD card
-- Pi-hole for local DNS filtering
 - Separate lab environment with no personal documents stored on the device
 
 ## What I practice
@@ -15,7 +14,7 @@ An active lab for practicing Linux administration and basic network services on 
 - Linux command-line navigation and package management
 - Installing updates and checking service status
 - File permissions and basic account hygiene
-- DNS behavior and local network troubleshooting
+- Local networking and DNS concepts
 - Reading system and service logs
 - Rebuilding the device cleanly when an experiment goes wrong
 
@@ -25,4 +24,4 @@ The Pi gives me a small system that stays available for practice. It is useful f
 
 ## Current status
 
-The lab is still growing. I will add sanitized configuration examples and repeatable setup notes as I test them. Credentials, private network details, and personal data will not be committed here.
+The lab is still growing. I will add sanitized configuration examples and repeatable setup notes only after I test and document them. Credentials, private network details, and personal data will not be committed here.
